@@ -1,0 +1,211 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills",
+    "contact": "Contact",
+    "support": "Support & Pay"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Abd El Rahman",
+    "subtitle": "Software Engineer & Mobile Application Developer",
+    "qualification": "Bachelor's Degree in Communication Technology",
+    "tagline": "I transform ideas into powerful digital experiences, intelligent software solutions, and high-quality mobile applications that help businesses grow and succeed.",
+    "cta1": "Let's Work Together",
+    "cta2": "Explore My Work",
+    "cta3": "View My Services",
+    "scrollDown": "Scroll Down",
+    "available": "Available for Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passionate about building meaningful digital solutions",
+    "body1": "I'm Abd El Rahman, a Software Engineer and Mobile Application Developer with a Bachelor's Degree in Communication Technology and a passion for creating meaningful digital solutions.",
+    "body2": "My work combines software engineering, creative problem-solving, and a strong understanding of practical business needs. I develop mobile applications, business management systems, educational platforms, invoicing solutions, and customized software for individuals, startups, companies, factories, and retail businesses.",
+    "body3": "In addition to development, I provide online and offline programming and AI training, support graduation projects, and help clients turn their ideas into functional digital products.",
+    "body4": "Whether you need a mobile application, a custom business system, technical guidance, or assistance launching your app on Google Play, I focus on delivering practical solutions with attention to quality, usability, and professional execution.",
+    "highlights": {
+      "degree": "Bachelor's in Communication Technology",
+      "engineering": "Software Engineering",
+      "mobile": "Mobile App Development",
+      "training": "Online & Offline Training",
+      "management": "Project Management",
+      "business": "Business Software Solutions",
+      "education": "Educational Technology",
+      "freelance": "Available for Freelance"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Comprehensive technical solutions tailored to your needs",
+    "requestService": "Request Service",
+    "learnMore": "Learn More",
+    "close": "Close"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Real applications built with passion and precision",
+    "viewAll": "View All Projects",
+    "viewDetails": "View Details",
+    "openInPlay": "Open in Google Play",
+    "visitWebsite": "Visit Website",
+    "technologies": "Technologies",
+    "category": "Category",
+    "featured": "Featured",
+    "allCategories": "All",
+    "filterLabel": "Filter by category"
+  },
+  "experience": {
+    "title": "Professional Experience & Expertise",
+    "subtitle": "A journey of growth, learning, and impactful work",
+    "items": {
+      "instructor": "Programming Instructor (Online & Offline)",
+      "instructorDesc": "Delivering programming, AI, and educational courses to students and professionals.",
+      "graduation": "Graduation Project Development",
+      "graduationDesc": "Software development support for graduation projects, including ECAAT Golf Car.",
+      "management": "Software Project Management",
+      "managementDesc": "Organizing and managing software projects from planning through delivery.",
+      "factory": "Factory & Company Systems",
+      "factoryDesc": "Developing management systems tailored for factories, companies, and enterprises.",
+      "retail": "Retail Store Systems",
+      "retailDesc": "Building custom solutions for retail stores including POS and inventory systems.",
+      "invoicing": "Custom Invoicing Systems",
+      "invoicingDesc": "Developing tailored invoicing software for businesses of all sizes.",
+      "edApps": "Educational Application Development",
+      "edAppsDesc": "Creating interactive educational applications that enhance the learning experience.",
+      "digital": "Digital Transformation & Company Setup",
+      "digitalDesc": "Helping businesses establish digital systems and move into the digital era.",
+      "market": "Market-Oriented Projects",
+      "marketDesc": "Building practical software projects based on real market needs and requirements.",
+      "international": "International-Oriented Software",
+      "internationalDesc": "Work on software projects designed with international use cases in mind."
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Technologies and expertise I bring to every project"
+  },
+  "techServices": {
+    "title": "Professional App & Technical Services",
+    "subtitle": "Expert support for your applications and technical challenges",
+    "requestService": "Request a Service",
+    "notes": {
+      "title": "Important Notes",
+      "prepayment": "Payment upfront — Full payment is required before starting the work.",
+      "bugPrice": "Bug-fixing prices may vary depending on the type, complexity, and time required.",
+      "specialPrice": "Special pricing is available for previous clients and bulk orders."
+    }
+  },
+  "contact": {
+    "title": "Let's Build Something Great Together",
+    "subtitle": "Have an idea, a business challenge, or a project in mind? Let's turn it into a powerful digital experience.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "whatsapp": "WhatsApp Number",
+      "whatsappPlaceholder": "+20 xxx xxx xxxx",
+      "service": "Service Type",
+      "servicePlaceholder": "Select a service",
+      "description": "Project Description",
+      "descPlaceholder": "Tell me about your project, idea, or challenge...",
+      "budget": "Budget (Optional)",
+      "budgetPlaceholder": "Your approximate budget",
+      "language": "Preferred Language",
+      "languagePlaceholder": "Select preferred language",
+      "submit": "Send Message via WhatsApp",
+      "submitting": "Sending...",
+      "success": "Message prepared! Your WhatsApp will open with the details.",
+      "formNote": "This form will open a pre-filled WhatsApp message for you to send."
+    },
+    "whatsapp": {
+      "title": "WhatsApp",
+      "number1": "+20 111 839 7123",
+      "number2": "+20 103 289 0206",
+      "chat": "Start Chat",
+      "copy": "Copy Number",
+      "copied": "Copied!"
+    },
+    "or": "or"
+  },
+  "payment": {
+    "title": "Support & Payment Methods",
+    "subtitle": "Choose your preferred payment method.",
+    "warning": "Please verify the recipient details before sending any payment.",
+    "copyButton": "Copy",
+    "copied": "Copied!",
+    "openLink": "Open Payment Link",
+    "instapay": {
+      "title": "InstaPay",
+      "recipient": "Recipient Name",
+      "phone": "Transfer Phone",
+      "address": "InstaPay Address",
+      "link": "Payment Link",
+      "sendMoney": "Send Money via InstaPay",
+      "qrTitle": "QR Code",
+      "qrDesc": "Scan with your InstaPay app"
+    },
+    "bank": {
+      "title": "Bank Transfer — IBAN",
+      "iban": "IBAN",
+      "recipient": "Recipient Name"
+    },
+    "binance": {
+      "title": "Binance",
+      "id": "Binance ID",
+      "trc20": "TRC20 Wallet (USDT)",
+      "bep20": "BEP20 Wallet (BSC)",
+      "warning1": "Verify the wallet address before sending funds.",
+      "warning2": "Select the correct blockchain network.",
+      "warning3": "Cryptocurrency transfers may be irreversible."
+    },
+    "vodafone": {
+      "title": "Vodafone Cash",
+      "number": "Wallet Number",
+      "name": "Recipient Name"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Built with",
+    "by": "by Abd El Rahman"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong.",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "learnMore": "Learn More",
+    "contactMe": "Contact Me",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "copySuccess": "Copied to clipboard!",
+    "noWebGL": "3D unavailable on this device.",
+    "services": {
+      "mobile-app": "Mobile App Development",
+      "custom-software": "Custom Software Solutions",
+      "business-systems": "Business Management Systems",
+      "invoicing": "Invoicing Systems",
+      "educational-apps": "Educational Applications",
+      "ai-training": "Programming & AI Training",
+      "graduation-projects": "Graduation Projects",
+      "project-management": "Project Management",
+      "digital-transformation": "Company Setup & Digital Transformation",
+      "market-software": "Market-Oriented Software Projects",
+      "other": "Other / General Inquiry"
+    },
+    "languages": {
+      "english": "English",
+      "arabic": "Arabic"
+    }
+  }
+}
